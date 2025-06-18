@@ -16,7 +16,6 @@ A simple ASP.NET Core Web API that allows users to manage a list of books in a d
 ## 🚀 Live Demo
 
 https://libraryapi20250530185243-cxc3ddb8gtcgg6an.canadacentral-01.azurewebsites.net/swagger/index.html 
-*(Replace with your actual Azure link if different)*
 
 ## 🧰 Technologies Used
 
@@ -27,9 +26,4 @@ https://libraryapi20250530185243-cxc3ddb8gtcgg6an.canadacentral-01.azurewebsites
 - xUnit (for testing)
 - Swagger (for API docs)
 
-## 🛠 Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/TGittingup/library-api.git
-   cd library-api
